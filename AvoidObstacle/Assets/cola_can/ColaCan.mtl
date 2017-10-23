@@ -1,0 +1,39 @@
+# MTL written from D:\_Temporary\ColaCan.obj
+newmtl Alumi_inside
+Kd 0.484557 0.484557 0.484557
+Ns 1024
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.205 0.205 0.205
+newmtl Alumi_top_close
+Kd 0.562025 0.562025 0.562025
+Ns 1024
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Bump D:\_Temporary\images\ColaCan_top_close_bum.tga
+newmtl Alumi_top_open
+Kd 0.562025 0.562025 0.562025
+Ns 1024
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.2 0.2 0.2
+map_Bump D:\_Temporary\images\ColaCan_top_open_bum.tga
+newmtl Aumi_double
+Kd 0.559494 0.559494 0.559494
+Ns 1024
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.205 0.205 0.205
+newmtl Label
+Kd 0.530823 0.530823 0.530823
+Ns 1024
+d 1
+illum 2
+Ka 0 0 0
+Ks 0.3 0.3 0.3
+map_Kd D:\_Temporary\images\ColaCan_Label_col.tga
